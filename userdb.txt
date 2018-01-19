@@ -1,0 +1,4 @@
+root:0:123456
+root:0:password
+pi:0:raspberry
+accounts:0:accounts

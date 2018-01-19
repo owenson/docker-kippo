@@ -1,0 +1,9 @@
+Transaction Clearing Server
+===========================
+
+AUTHORIZED USERS ONLY
+
+This server belongs to International Money Transfers Ltd and 
+you may only continue to login if you are an authorized user.
+
+
